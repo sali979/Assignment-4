@@ -1,0 +1,8 @@
+User:
+admin
+
+Pass:
+admin
+
+Email:
+admin@admin875.com
